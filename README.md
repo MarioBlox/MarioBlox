@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">✨ Hi there, I'm <span style="color:#ff66cc;">marioblox</span>! 🍄</h1>
+<h1 align="center">✨ Hi there, I'm <span style="color:#ff66cc;">MarioBlox</span>! 🍄</h1>
 <p align="center">A pixel-loving web developer with a passion for playful design and magical code 💖</p>
 
 <p align="center">
@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: *coming soon!*
-- 💌 Email: marioblox@email.com
+- 💌 Email: thatchanajaruphong@gmail.com
 - 🐦 Twitter: [@marioblox](https://twitter.com/marioblox) *(if available)*
-- 📸 IG: [@marioblox.dev](https://instagram.com/marioblox.dev) *(optional)*
+- 📸 IG: [@marioblox.dev](https://www.instagram.com/pers0naxx/) *(optional)*
 
 ---
 
