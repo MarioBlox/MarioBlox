@@ -1,20 +1,5 @@
-
-<!--
-**MarioBlox/MarioBlox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">✨ Hi there, I'm <span style="color:#ff66cc;">MarioBlox</span>! 🍄</h1>
-<p align="center">A pixel-loving web developer with a passion for playful design and magical code 💖</p>
+<h1 align="center">🧙‍♂️ Welcome, traveler! I'm <span style="color:#ff66cc;">MarioBlox</span> – Cyber Sorcerer ✨</h1>
+<p align="center">Casting spells in code, shaping cozy pixel worlds, and exploring the magical realm of web dev 💖</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="150px" alt="Pixel Mario Jump" />
@@ -22,16 +7,25 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌟 About Me
+## 🪄 Who Am I?
 
-- 🎮 I love building cute, cozy web projects with pixel or retro game vibes.
-- 🛠️ Currently working with **React**, **Next.js**, and **Tailwind CSS**.
-- ✨ Dreaming of creating my own indie game someday.
-- ☕ Caffeine-powered coder with a soft spot for pink and pastel themes.
+- 🧙‍♀️ Just a friendly sorcerer who speaks **JavaScript**, **React**, and **Tailwind runes**.
+- 🎮 Building cozy web worlds with retro game vibes and pixel magic.
+- 🪐 Dreaming of my own fantasy indie game.
+- 🌸 Lover of pastel themes, cute UIs, and clean, enchanted code.
+- 🍵 Fueled by tea and spellbooks (a.k.a. docs & MDN).
 
 ---
 
-## 💻 Tech I Love
+## 🔮 Current Status
+
+> 🧪 Studying ancient scrolls of Next.js  
+> 🔧 Forging UI spells in Tailwind  
+> 💤 Resting under the pixel moon 🌙
+
+---
+
+## 💻 Magical Toolkit
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,30 +38,31 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Magic Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marioblox&show_icons=true&theme=cobalt" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioblox&layout=compact&theme=cobalt" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marioblox&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioblox&layout=compact&theme=tokyonight" height="160" />
 </div>
 
 ---
 
 ## 🎀 Fun Facts
 
-- 🐱 I’m a cat lover and pixel art hoarder.
-- 🍓 I can't code without dessert on the side.
-- 🌈 I believe coding should be fun, expressive, and sometimes a little bit ✨extra✨.
+- 🐱 Cat familiar always on standby.
+- 🍓 Coding without sweets? Impossible.
+- 🎨 I collect pixel art and magical UI components.
+- 🌈 Believer in code that sparkles ✨
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact the Sorcerer
 
 - 🌐 Portfolio: *coming soon!*
 - 💌 Email: thatchanajaruphong@gmail.com
-- 🐦 Twitter: [@marioblox](https://twitter.com/marioblox) *(if available)*
-- 📸 IG: [@marioblox.dev](https://www.instagram.com/pers0naxx/) *(optional)*
+- 🐦 Twitter: [@marioblox](https://twitter.com/marioblox)
+- 📸 IG: [@pers0naxx](https://www.instagram.com/pers0naxx/)
 
 ---
 
-<p align="center">Thanks for stopping by! Have a magical day! 🌸</p>
+<p align="center">Thanks for visiting my magic circle! 🌟 May your code be bug-free and full of wonder ✨</p>
